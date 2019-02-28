@@ -68,6 +68,7 @@
         <username>harigurram123</username>
         <password>Rainbow@123</password>
         <businessGroup>LnD</businessGroup>
+        <domain>default</domain>
         <environment>DEV</environment>
 	 <workerType>Micro</workerType>
         <redeploy>true</redeploy>
