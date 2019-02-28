@@ -67,9 +67,10 @@
         <muleVersion>3.9.1</muleVersion> 
         <username>harigurram123</username>
         <password>Rainbow@123</password>
+        <businessGroup>LnD</businessGroup>
+        <environment>DEV</environment>
 	 <workerType>Micro</workerType>
         <redeploy>true</redeploy>
-        <environment>Production</environment>
     </configuration>
     <executions>
         <execution>
